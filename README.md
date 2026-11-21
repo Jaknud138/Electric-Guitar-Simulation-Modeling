@@ -129,15 +129,7 @@ Moving the pickup toward the neck reduces the relative strength of several upper
 
 ## Listen to the experiments
 
-Audio links embedded in the original writeup:
-
-- **Signal processing:** [Clean G-major scale](https://drive.google.com/file/d/1Wfv9DsD_GGtCqMXXCO66ekPNHKpC63uM/view?usp=sharing) · [After low-pass filtering](https://drive.google.com/file/d/1-PiCjXzT8Hl79kwMvJcbcJv7YxtoZqXE/view?usp=sharing) · [Heavy distortion](https://drive.google.com/file/d/1mkLqp56Fnx1YyBtChBKwLhs1a--C7FYG/view?usp=sharing)
-- **Stability:** [Increasing timestep / CFL test](https://drive.google.com/file/d/1pG1hmdDnpL2HltO5uSkh3NtXeLazinZg/view?usp=sharing)
-- **Pickup position:** [Bridge](https://drive.google.com/file/d/1apKdgxc887bV8C4BIHugFiOE3HdrTojn/view?usp=share_link) · [Neck](https://drive.google.com/file/d/1wMtrzL90AqjWhCO9VgjwDDylmyrh86St/view?usp=share_link)
-- **Clipping:** [Soft clipping](https://drive.google.com/file/d/1oI7HflSNOyjJYSzhmBbfH8q_TbtJUUq7/view?usp=share_link) · [Hard clipping](https://drive.google.com/file/d/1AzaqPR2dr0ya1wRSLtQidDSttvl5o7AV/view?usp=share_link)
-- **Riff demonstrations:** [Mr. Brightside](https://drive.google.com/file/d/1zyA8TdwSqXwiW99YQvWroTQKr4HgMch6/view?usp=sharing) · [Smoke on the Water](https://drive.google.com/file/d/12PJ2udaFo32vz-6TLa9Dl7qR6WvTlB8x/view?usp=sharing)
-
-*Audio availability depends on the Google Drive sharing permissions of the original files.*
+All generated audio for all experiments is uploaded to this repo with appropriate titles
 
 ## Running the MATLAB simulation
 
